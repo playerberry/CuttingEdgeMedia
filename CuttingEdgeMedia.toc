@@ -1,0 +1,8 @@
+## Interface: 70300 
+## Title: |c00ffff00Cutting Edge Media Tool|r
+## Version: v2.0.0
+## Author: PlayerBerry
+## DefaultState: enabled
+## Dependencies: SharedMedia 
+
+init.lua 
