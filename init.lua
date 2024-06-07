@@ -29,6 +29,19 @@ LSM:Register("font", "Montserrat Regular", [[Interface\Addons\CuttingEdgeMedia\F
 LSM:Register("font", "Montserrat SemiBold", [[Interface\Addons\CuttingEdgeMedia\Fonts\montserrat-semi-bold.ttf]])
 -- Morpheus
 LSM:Register("font", "Morpheus", [[Interface\Addons\CuttingEdgeMedia\Fonts\morpheus.ttf]])
+-- Noto Sans
+LSM:Register("font", "Noto Sans Condensed Medium", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-condensed-medium.ttf]])
+LSM:Register("font", "Noto Sans Condensed Regular", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-condensed-regular.ttf]])
+LSM:Register("font", "Noto Sans Condensed Semi Bold", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-condensed-semi-bold.ttf]])
+LSM:Register("font", "Noto Sans Extra Condensed Medium", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-extra-condensed-medium.ttf]])
+LSM:Register("font", "Noto Sans Extra Condensed Regular", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-extra-condensed-regular.ttf]])
+LSM:Register("font", "Noto Sans Extra Condensed Semi Bold", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-extra-condensed-semi-bold.ttf]])
+LSM:Register("font", "Noto Sans Medium", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-medium.ttf]])
+LSM:Register("font", "Noto Sans Regular", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-regular.ttf]])
+LSM:Register("font", "Noto Sans Semi Bold", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-semi-bold.ttf]])
+LSM:Register("font", "Noto Sans Semi Condensed Medium", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-semi-condensed-medium.ttf]])
+LSM:Register("font", "Noto Sans Semi Condensed Regular", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-semi-condensed-regular.ttf]])
+LSM:Register("font", "Noto Sans Semi Condensed Semi Bold", [[Interface\Addons\CuttingEdgeMedia\Fonts\notosans-semi-condensed-semi-bold.ttf]])
 -- Play
 LSM:Register("font", "Play Bold", [[Interface\Addons\CuttingEdgeMedia\Fonts\play-bold.ttf]])
 LSM:Register("font", "Play Regular", [[Interface\Addons\CuttingEdgeMedia\Fonts\play-regular.ttf]])
@@ -223,3 +236,4 @@ LSM:Register("sound", "|cFF8788EEInfernal Incoming|r", [[Interface\Addons\Cuttin
 -- [[ Statusbars ]] --
 LSM:Register("statusbar", "Cutting Edge", [[Interface\Addons\CuttingEdgeMedia\Statusbars\cutting-edge-default.tga]])
 LSM:Register("statusbar", "Cutting Edge Stripped", [[Interface\Addons\CuttingEdgeMedia\Statusbars\cutting-edge-stripped.tga]])
+LSM:Register("statusbar", "Cutting Edge Stripped (Plater)", [[Interface\Addons\CuttingEdgeMedia\Statusbars\cutting-edge-stripped-2.tga]])
