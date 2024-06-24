@@ -9,6 +9,7 @@ on:
     paths-ignore:
       - ".github/**"
       - ".git/**"
+      - ".gitignore"
 
 jobs:
   build:
