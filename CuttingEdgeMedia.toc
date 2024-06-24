@@ -1,16 +1,24 @@
-## Interface: 70300 
+## Interface: 100207, 110000
+
 ## Title: |c00ffff00Cutting Edge Media Tool|r
-## Author: PlayerBerry
-## Version: v2.0.0
-## IconTexture: Interface\AddOns\CuttingEdgeMedia\Textures\icon.blp
+
 ## Notes: A powerful, comprehensive utility for Weakauras.
 ## Notes-esES: Potente y completa aplicación que te permitirá mostrar por pantalla múltiples diseños, basados en beneficios, perjuicios y otros activadores.
 ## Notes-deDE: Ein leistungsfähiges, umfassendes Addon zur Weakauras.
 ## Notes-ruRU: Мощный, всеобъемлющий инструмент для Weakauras.
 ## Notes-zhTW: 一個強大且全面的 Weakauras 工具。
-## X-Category: Miscellaneous
+## DefaultState: enabled
+## IconTexture: Interface\AddOns\CuttingEdgeMedia\Textures\icon.blp
+## Version: v2.0.0
+## Author: PlayerBerry
 
-## DefaultState: Enabled
+## X-Category: Miscellaneous
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+## X-Website: https://github.com/playerberry/cuttingedgemediatool
+
 ## Dependencies: SharedMedia 
+
+## X-Curse-Project-ID: 883772
+## X-Wago-ID: Q6aE9A6W
 
 Init.lua 
